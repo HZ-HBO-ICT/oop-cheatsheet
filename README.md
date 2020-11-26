@@ -2,8 +2,9 @@
 
 Answer the following questions. It might also be useful to create a real cheat sheet: link to specific files, methods or even single lines of code in your answers. That makes sure you have a real cheat sheet for the exam so you can find the important things in a matter of seconds instead of sifting through your notes and project for tens of minutes.
 
-# Table of contents
-1. Describe a template for creating a class.
+## Table of contents
+
+1. [Describe a template for creating a class.](./docs/class-template.md)
 2. What is the difference between public, private and protected?
 3. What are getters/setters and why do we use them?
 4. What is inheritance?
